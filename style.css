@@ -1,0 +1,25 @@
+#primer {
+
+    background-color: chartreuse;
+    display: inline-block;
+
+}
+
+a {
+    text-decoration: none;
+}
+
+#segund {
+    background-color: cadetblue;
+    display: table-cell;
+
+}
+
+a:hover {
+    background-color: bisque;
+}
+
+#tercer {
+    background-color: crimson;
+    display: table;
+}
