@@ -1,3 +1,8 @@
+body {
+    background-color: cyan;
+
+}
+
 #primer {
 
     background-color: chartreuse;
@@ -16,10 +21,42 @@ a {
 }
 
 a:hover {
-    background-color: bisque;
+    background-color: blanchedalmond;
 }
 
 #tercer {
     background-color: crimson;
     display: table;
+}
+
+#b {
+    background-color: chartreuse;
+    display: block;
+    border-radius: 100px;
+    font-size: 2rem;
+
+}
+
+#c {
+    background-color: cornflowerblue;
+    display: block;
+    border-radius: 100px;
+    font-size: 2rem;
+
+}
+
+#d {
+    background-color: darkorange;
+    display: block;
+    border-radius: 100px;
+    font-size: 2rem;
+
+}
+
+#e {
+    background-color: blue;
+    display: block;
+    border-radius: 100px;
+    font-size: 2rem;
+
 }
